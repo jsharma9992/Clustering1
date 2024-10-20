@@ -1,4 +1,5 @@
-![Screenshot 2024-10-21 023712](https://github.com/user-attachments/assets/65c3f44e-7a66-4469-a368-1afaf0884d5a)
+![Screenshot 2024-10-21 023712](https://github.com/user-attachments/assets/f0982360-00bc-4b66-b33f-1315db7db719)
+
 
 The project involves implementing clustering algorithms to analyze synthetic heart disease datasets using K-Means, Hierarchical, and Mean Shift clustering techniques. The performance of these algorithms is evaluated through metrics such as Silhouette Score, Calinski-Harabasz Index, and Davies-Bouldin Index.
 Overview
